@@ -13,4 +13,4 @@
 
 
 
-# Home, Characters, Weapons, Oufits
+# Home, Characters, Weapons, Outfits
